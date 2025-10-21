@@ -44,6 +44,3 @@ https://github.com/CoboAr/A3C-for-Kung-Fu/assets/144629565/4ffd9c10-e731-4695-90
    </ul> 
  </ol>
 
-Enjoy! And please do let me know if you have any comments, constructive criticism, and/or bug reports.
-## Author
-## Arnold Cobo
